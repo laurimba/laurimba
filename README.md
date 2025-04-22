@@ -9,9 +9,9 @@
 <p align="center">
   🌺 my name is laura, nice to meet you <3<br/>
   🌺 i'm from madrid, spain<br/>
-  🌺 my english level is c1 (advanced)<br/>
-  🌺 i'm currently studying computer science engineering<br/>
-    at complutense university of madrid (second year)<br/>
+  🌺 my <b>english level</b> is <b>c1</b> (advanced)<br/>
+  🌺 i'm currently studying <b>computer science engineering</b><br/>
+    at <b>complutense university of madrid</b> (second year)<br/>
   🌺 i mainly code with:
 </p>
 
