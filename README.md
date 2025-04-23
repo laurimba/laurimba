@@ -1,4 +1,4 @@
-<p align="center" style="font-family: 'Times New Roman', Times, serif;">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&background=FFFFFF00&center=true&multiline=true&width=435&lines=hii+welcome+to+my+github+profile!!" alt="Typing SVG" />
   </a>
