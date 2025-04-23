@@ -17,12 +17,13 @@
 
 <div align="center">
   <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=f495bf" alt="imagen java rosa" width="40" />
-  <img src="https://img.icons8.com/?size=100&id=55199&format=png&color=f495bf" alt="Imagen rosa" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=55199&format=png&color=f495bf" alt="Imagen rosa" width="40" /><br/>
+  java ┃ c++  
 </div><br/>
 
 <p align="center">──── ୨୧ ────</p><br/>
 
-<p align="center">
-  p.s. all my repositories are private right now to avoid plagiarism, since they are all university projects, sorry!!<br/>
+<pre align="center">
+  p.s. all my repositories are private right now to avoid plagiarism, since they are all university projects, sorry!!
   i'll create public repositories in the future :p
-</p>
+</pre>
