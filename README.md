@@ -11,7 +11,7 @@
   🌺 i'm from madrid, spain<br/>
   🌺 my <b>english level</b> is <b>c1</b> (advanced)<br/>
   🌺 i'm currently studying <b>computer science</b><br/>
-    at <b>complutense university of madrid</b> (second year)<br/>
+    at <b>complutense university of madrid</b> (third year)<br/>
   🌺 i mainly code with:
 </p>
 
