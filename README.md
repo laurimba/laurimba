@@ -24,6 +24,6 @@
 <p align="center">──── ୨୧ ────</p><br/>
 
 <pre align="center">
-  p.s. all my repositories are private right now to avoid plagiarism, since they are all university projects, sorry!!
-  i'll create public repositories in the future :p
+  p.s. most of my repositories are private right now to avoid plagiarism, as they are mostly university projects, sorry !!
+  more public repositories coming soon :p
 </pre>
