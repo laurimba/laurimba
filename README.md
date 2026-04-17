@@ -7,7 +7,7 @@
 <p align="center">──── ୨୧ ────</p>
 
 <p align="center">
-  🌺 my name is laura, nice to meet you <3<br/>
+  🌺 my name is laura<br/>
   🌺 i'm from madrid, spain<br/>
   🌺 my <b>english level</b> is <b>c1</b> (advanced)<br/>
   🌺 i'm currently studying <b>computer science</b><br/>
@@ -18,12 +18,4 @@
 <div align="center">
   <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=f495bf" alt="imagen java rosa" width="40" />
   <img src="https://img.icons8.com/?size=100&id=55199&format=png&color=f495bf" alt="Imagen rosa" width="40" /><br/>
-  java ┃ c++  
 </div><br/>
-
-<p align="center">──── ୨୧ ────</p><br/>
-
-<pre align="center">
-  p.s. most of my repositories are private right now to avoid plagiarism, as they are mostly university projects, sorry !!
-  more public repositories coming soon :p
-</pre>
