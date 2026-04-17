@@ -17,7 +17,7 @@
 <p align="center">──── ୨୧ ────</p>
 
 <p align="center">
-  🌺 some languages & tools:
+<b>some languages & tools:</b>
 </p>
 
 <div align="center">
