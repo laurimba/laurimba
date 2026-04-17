@@ -12,10 +12,26 @@
   🌺 my <b>english level</b> is <b>c1</b> (advanced)<br/>
   🌺 i'm currently studying <b>computer science</b><br/>
     at <b>complutense university of madrid</b> (third year)<br/>
-  🌺 i mainly code with:
+</p>
+
+<p align="center">──── ୨୧ ────</p>
+
+<p align="center">
+  🌺 some languages & tools:
 </p>
 
 <div align="center">
-  <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=f495bf" alt="imagen java rosa" width="40" />
-  <img src="https://img.icons8.com/?size=100&id=55199&format=png&color=f495bf" alt="Imagen rosa" width="40" /><br/>
+  <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=f495bf" width="40" /> 
+  <img src="https://img.icons8.com/?size=100&id=55199&format=png&color=f495bf" width="40" /> 
+  <img src="https://img.icons8.com/?size=100&id=39854&format=png&color=f495bf" width="40" /> 
+  <img src="https://img.icons8.com/?size=100&id=12592&format=png&color=f495bf" width="40" />
+  <br/>
+  java, c++, javascript, python...
+  <br/><br/>
+  <img src="https://img.icons8.com/?size=100&id=5G1hoplJYy86&format=png&color=f495bf" width="40" /> 
+  <img src="https://img.icons8.com/?size=100&id=121602&format=png&color=f495bf" width="40" /> 
+  <img src="https://img.icons8.com/?size=100&id=w1uD6vtDitjr&format=png&color=f495bf" width="40" />
+  <br/>
+  visual studio code, visual studio 2022, eclipse for java...
+  <br/>
 </div><br/>
