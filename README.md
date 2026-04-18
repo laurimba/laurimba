@@ -7,11 +7,10 @@
 <p align="center">──── ୨୧ ────</p>
 
 <p align="center">
-  🌺 my name is laura<br/>
-  🌺 i'm from madrid, spain<br/>
-  🌺 my <b>english level</b> is <b>c1</b> (advanced)<br/>
+  🌺 my name is laura :p<br/>
   🌺 i'm currently studying <b>computer science</b><br/>
     at <b>complutense university of madrid</b> (third year)<br/>
+  🌺 my <b>english level</b> is <b>c1</b> (advanced)<br/>
 </p>
 
 <p align="center">──── ୨୧ ────</p>
