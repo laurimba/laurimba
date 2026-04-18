@@ -19,18 +19,12 @@
 <b>some languages & tools:</b>
 </p>
 
-<div align="center">
-  <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=f495bf" width="40" /> 
-  <img src="https://img.icons8.com/?size=100&id=55199&format=png&color=f495bf" width="40" /> 
-  <img src="https://img.icons8.com/?size=100&id=39854&format=png&color=f495bf" width="40" /> 
-  <img src="https://img.icons8.com/?size=100&id=12592&format=png&color=f495bf" width="40" />
-  <br/>
+<pre align="center">
+  <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=f495bf" width="40" />  <img src="https://img.icons8.com/?size=100&id=55199&format=png&color=f495bf" width="40" />  <img src="https://img.icons8.com/?size=100&id=39854&format=png&color=f495bf" width="40" />  <img src="https://img.icons8.com/?size=100&id=12592&format=png&color=f495bf" width="40" /> 
   java, c++, javascript, python...
-  <br/><br/>
-  <img src="https://img.icons8.com/?size=100&id=5G1hoplJYy86&format=png&color=f495bf" width="40" /> 
-  <img src="https://img.icons8.com/?size=100&id=121602&format=png&color=f495bf" width="40" /> 
-  <img src="https://img.icons8.com/?size=100&id=w1uD6vtDitjr&format=png&color=f495bf" width="40" />
-  <br/>
+
+  
+  <img src="https://img.icons8.com/?size=100&id=5G1hoplJYy86&format=png&color=f495bf" width="40" />  <img src="https://img.icons8.com/?size=100&id=121602&format=png&color=f495bf" width="40" />  <img src="https://img.icons8.com/?size=100&id=w1uD6vtDitjr&format=png&color=f495bf" width="40" />
   visual studio code, visual studio 2022, eclipse for java...
-  <br/>
-</div><br/>
+
+</pre><br/>
