@@ -9,7 +9,7 @@
 <p align="center">
   🌺 my name is laura :p<br/>
   🌺 i'm currently studying <b>computer science</b><br/>
-    at <b>complutense university of madrid</b> (third year)<br/>
+    at <b>complutense university of madrid</b> (fourth year)<br/>
   🌺 my <b>english level</b> is <b>c1</b> (advanced)<br/>
 </p>
 
